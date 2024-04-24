@@ -37,6 +37,3 @@ theme: default
 class: invert
 # class: lead
 ```
-
-test2
-test3
