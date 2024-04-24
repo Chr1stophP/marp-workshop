@@ -38,5 +38,3 @@ class: invert
 # class: lead
 ```
 
----
-# Test Slide
